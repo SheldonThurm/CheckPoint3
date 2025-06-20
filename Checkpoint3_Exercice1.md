@@ -82,17 +82,17 @@ Ils utilisent le système de stockage **ext2** avec un système **RAID**
 
 Q.2.3.3
 
-![ajout_disque]()
-![reparation_raid]()
+![ajout_disque](/Ressources/ajout_disque.png)
+![reparation_raid](/Ressources/reparation_raid.png)
 
 Q.2.3.4
 
-![creation_lv]()
-![fstab]()
+![creation_lv](/Ressources/creation_lv.png)
+![fstab](/Ressources/fstab.png)
 
 Q.2.3.5
 
-![vgdisplay]()
+![vgdisplay](/Ressources/vgdisplay.png)
 
 #### Partie 4
 
@@ -106,7 +106,7 @@ bareos-fd => Permet d'accéder au données qui seront sauvegardées
 
 Q.2.5.1
 
-![nftable]()
+![nftable](/Ressources/nftable.png)
 
 Q.2.5.2
 
