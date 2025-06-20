@@ -54,7 +54,9 @@ Q.2.3.5
 Q.2.4.1
 
 bareos-dir => Supervise le logiciel, que ce soit les sauvegardes, les restaurations ou l'archivage
+
 bareos-sd => Organise les sauvegardes
+
 bareos-fd => Permet d'accéder au données qui seront sauvegardées
 
 #### Partie 5
