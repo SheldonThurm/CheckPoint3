@@ -4,32 +4,32 @@
 
 Q.2.1.1
 
-![addusers]()
+![addusers](/Ressources/addusers.png)
 
 Q.2.1.2
 
 Je préconise de le faire entrer dans le groupe "sudo"
-![usermod]()
+![usermod](/Ressources/usermod.png)
 
 ### Partie 2
 
 Q.2.2.1
 
-![permit_root_login]()
+![permit_root_login](/Ressources/permitrootlogin.png)
 
 Q.2.2.2
 
-![allowusers]()
+![allowusers](/Ressources/allowusers.png)
 
 Q.2.2.3
 
-![Q.2.2.3]()
+![Q.2.2.3](/Ressources/Q.2.2.3.png)
 
 ### Partie 3
 
 Q.2.3.1
 
-![fichier_monte]()
+![fichier_monte](/Ressources/fichier_monte.png)
 
 Q.2.3.2
 
@@ -37,17 +37,17 @@ Ils utilisent le système de stockage **ext2** avec un système **RAID**
 
 Q.2.3.3
 
-![ajout_disque]()
-![reparation_raid]()
+![ajout_disque](/Ressources/ajout_disque.png)
+![reparation_raid](/Ressources/reparation_raid.png)
 
 Q.2.3.4
 
-![creation_lv]()
-![fstab]()
+![creation_lv](/Ressources/creation_lv.png)
+![fstab](/Ressources/fstab.png)
 
 Q.2.3.5
 
-![vgdisplay]()
+![vgdisplay](/Ressources/vgdisplay.png)
 
 #### Partie 4
 
@@ -61,7 +61,7 @@ bareos-fd => Permet d'accéder au données qui seront sauvegardées
 
 Q.2.5.1
 
-![nftable]()
+![nftable](/Ressources/nftable.png)
 
 Q.2.5.2
 
@@ -82,4 +82,15 @@ Q.2.5.4
 #### Partie 6
 
 Q.2.6.1
+
+
+
+
+
+
+
+
+
+
+
 
