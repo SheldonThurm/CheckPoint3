@@ -1,48 +1,3 @@
-# Checkpoint 3
-
-
-## Exercice 1
-
-### Partie 1
-
-Q.1.1.1
-
-![image lionel]()
-
-Q.1.1.2
-
-![kelly]()
-
-Q.1.1.3
-
-![grp_ressource_humaine]()
-
-Q.1.1.4
-
-![]
-
-
-### Partie 2
-
-Q.1.2.1
-
-![gabriel]()
-
-Q.1.2.2
-
-![gabriel_logon]()
-
-Q.1.2.3
-
-![mot_de_passe]()
-
-### Partie 3
-
-Q1.3.1
-
-![]()
-
-
 ## Exercice 2
 
 ### Partie 1
@@ -117,14 +72,14 @@ Actuellement les communications autorisées sont :
 
 Q.2.5.3
 
+Les communications interdites sont :
+- Protocole SSH sur un autre port que 22
 
 
+Q.2.5.4
 
 
+#### Partie 6
 
-
-
-
-
-
+Q.2.6.1
 
